@@ -5,7 +5,7 @@ This is an application for controlling WS2812B Led Strips. Project uses Arduino 
 Things that are required to use this project:
 - Visual Studio with .NET Framework
 - Arduino IDE
-- Arduino Board
+- Arduino Board with uploaded code.ino file
 - WS2812b Leds or Strip
 - AT24C128 EEPROM Memory
 ### Wiring
